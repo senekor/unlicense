@@ -10,6 +10,9 @@ license = "Unlicense"
 keywords = ["license", "copyright"]
 categories = ["command-line-utilities"]
 
+# don't publish unnecessary files to crates.io
+exclude = [".github"]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

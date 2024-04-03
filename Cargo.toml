@@ -2,6 +2,13 @@
 name = "unlicense"
 version = "0.1.0"
 edition = "2021"
+authors = ["Remo Senekowitsch"]
+description = "access the text of the Unlicense"
+readme = "README.md"
+repository = "https://github.com/senekor/unlicense"
+license = "Unlicense"
+keywords = ["license", "copyright"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

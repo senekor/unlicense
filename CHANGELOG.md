@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Running interactively now writes to the file `./UNLICENSE`.
+  Running non-interactively (e.g. pipe) still writes to stdout.
+
 ## [0.1.0] - 2024-04-04
 
 ### Added

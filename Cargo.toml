@@ -32,8 +32,11 @@ ci = ["github"]
 installers = ["shell"]
 # Target platforms to build apps for (Rust target-triple syntax)
 targets = [
-    "aarch64-apple-darwin",
-    "x86_64-apple-darwin",
+    # apple builds are currently failing.
+    # one might try to enable this again later
+    # (e.g. with a new version of cargo-dist)
+    # "aarch64-apple-darwin",
+    # "x86_64-apple-darwin",
     "x86_64-unknown-linux-gnu",
     "x86_64-pc-windows-msvc",
 ]

@@ -1,3 +1,3 @@
 fn main() {
-    println!("{}", unlicense::TEXT);
+    print!("{}", unlicense::TEXT);
 }

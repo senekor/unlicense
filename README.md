@@ -36,8 +36,11 @@ When given any arguments, displays this help page.
 ## Library
 
 This project also exposes a library you can use in your own Rust code.
+It just contains the text as a static variable.
 Add it as a dependency with:
 
 ```sh
 cargo add unlicense
 ```
+
+(Yes, this is a joke, you probably shouldn't use this library.)

@@ -1,6 +1,6 @@
 [package]
 name = "unlicense"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2024"
 description = "Access the text of the Unlicense. <https://unlicense.org>"
 readme = "README.md"

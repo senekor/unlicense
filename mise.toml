@@ -1,0 +1,5 @@
+[tasks]
+dist = "cargo dist"
+
+[tools]
+"cargo:cargo-dist" = "0.30.0"

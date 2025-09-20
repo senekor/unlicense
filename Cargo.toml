@@ -1,7 +1,7 @@
 [package]
 name = "unlicense"
 version = "0.2.0"
-edition = "2021"
+edition = "2024"
 description = "Access the text of the Unlicense. <https://unlicense.org>"
 readme = "README.md"
 repository = "https://github.com/senekor/unlicense"
